@@ -1,0 +1,20 @@
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color: rgb(207, 4, 4);
+}
+
+a:hover{
+    color: black;
+    transition: 0.3s all;
+}
+
+#inscreva-se-btn{
+    border: 2px solid rgb(212, 3, 3);
+    padding: 10px;
+    border-radius: 15px;
+
+}
